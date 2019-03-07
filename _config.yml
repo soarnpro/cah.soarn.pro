@@ -1,1 +1,7 @@
+# Theme
 theme: jekyll-theme-leap-day
+# Google Analytics
+google_analytics: UA-114243378-3
+# Plugins
+plugins:
+  - jekyll-sitemap
