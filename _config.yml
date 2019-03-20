@@ -1,5 +1,5 @@
 # Theme
-remote_theme: daviddarnes/alembic
+theme: alembic-jekyll-theme
 # Google Analytics
 google_analytics: UA-114243378-3
 # Plugins
